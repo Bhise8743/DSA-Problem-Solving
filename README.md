@@ -1,2 +1,6 @@
 # DSA-Problem-Solving
-DSA coding problems solving in the Leetcode coding platform and GFG practice platform  
+Leetcode coding platform  
+https://leetcode.com/problemset/all/
+
+GFG practice platform
+https://auth.geeksforgeeks.org/user/omkarbhise8743/practice
